@@ -1,0 +1,27 @@
+[
+  { "name": "Nightheaven" },
+  {
+    "nav": [
+      { "name": "Neuigkeiten", "class": "nh_n_001" },
+      { "name": "Auftritte", "class": "nh_t_001" },
+      { "name": "Mitglieder", "class": "nh_m_001" },
+      { "name": "Medien", "class": "nh_medien_001" },
+      { "name": "Kontakt", "class": "nh_k_001" }
+    ]
+  },
+  {
+    "news": [
+      { "name": "Wir suchen einen Schlagzeuger", "class": "nh_wss_001", "date": "01. Mai 2025" },
+      { "name": "Wir suchen einen Bassisten", "class": "nh_wse_001", "date": "25. Mai 2025" }
+    ],
+    "tour":[
+      {"name": "Es ist noch keine Auftritte geplannt", "class": "nh_esnkag_001", "date": "01. Mai 2025"},
+    ],
+    "members":[
+      { "src": ".img/michael.png",
+        "name": "Michael",
+        "rolle":"Keyboarder",
+      }
+    ]
+  }
+]
